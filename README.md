@@ -4,7 +4,7 @@
 
 # Mer e Der:
 
-![mereder](./ESTOQUE_ROUPAS.drawio)
+![atividade](./ESTOQUE_ROUPAS.drawio)
 
 ## Dicionário de Dados
 
