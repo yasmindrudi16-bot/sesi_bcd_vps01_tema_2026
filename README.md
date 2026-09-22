@@ -37,7 +37,6 @@
 |movimentaçaõ_de_estoque| quantidade | int| | Quantidade do produtos que restam no estoque|
 |movimentaçaõ_de_estoque| data|date| 20 | Data da entrada e saida de produtos|
 
+## Dados em CSV:
 
-
-
-
+-![Categoria.csv](./Categoria.csv)
