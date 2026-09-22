@@ -39,4 +39,10 @@
 
 ## Dados em CSV:
 
--![Categoria.csv](./Categoria.csv)
+- ![Categoria.csv](./Categoria.csv)
+- ![fornecedor.csv](./fornecedor.csv)
+- ![produto.csv](./produto.csv)
+- ![estoque.csv](./estoque.csv)
+- ![movimentação_de_estoque.csv](./movimentação_de_estoque.csv)
+
+
