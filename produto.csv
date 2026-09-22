@@ -1,0 +1,8 @@
+id,nome,descricao,preco,marca,id_categoria,id_fornecedor
+1,Camiseta Básica Branca,Camiseta de algodão branca,39.90,Nike,1,1
+2,Camiseta Preta,Camiseta básica preta,44.90,Adidas,1,2
+3,Calça Jeans Masculina,Calça jeans azul masculina,129.90,Levis,2,1
+4,Calça Jeans Feminina,Calça jeans feminina skinny,119.90,Colcci,2,2
+5,Vestido Floral,Vestido feminino estampado,159.90,Zara,3,3
+6,Tênis Esportivo,Tênis para atividades físicas,299.90,Nike,4,1
+7,Tênis Casual,Tênis casual para uso diário,199.90,Adidas,4,2
