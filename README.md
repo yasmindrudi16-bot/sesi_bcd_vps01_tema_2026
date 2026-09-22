@@ -47,6 +47,7 @@
 
 ## DDL.SQUL
 
+```
 drop database if exists estoque_roupa;
 create database estoque_roupa;
 
@@ -96,9 +97,10 @@ create table movimentacao_de_estoque(
 alter table produto add constraint fornece foreign key (id_categoria) references categoria(id);
 alter table produto add constraint possui foreign key (id_fornecedor) references fornecedor(id);
 alter table estoque add constraint estoque foreign key (id_produto) references produto(id);
-
+````
 ## DML.SQL
 
+````
 use estoque_roupa;
 
 insert into
@@ -159,3 +161,4 @@ values
 (5, 'saida', 4, '2026-09-13'),
 (7, 'saida', 3, '2026-09-14');
 select * from movimentacao_de_estoque;
+````
