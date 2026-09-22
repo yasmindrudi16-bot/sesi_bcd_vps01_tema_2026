@@ -1,0 +1,8 @@
+id_estoque,id_produto,quantidade,quantidade_minima
+null,1,50,10
+null,2,35,10
+null,3,20,5
+null,4,25,5
+null,5,15,5
+null,6,18,5
+null,7,12,3
